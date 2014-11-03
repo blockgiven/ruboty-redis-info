@@ -1,6 +1,8 @@
 # Ruboty::Redis::Info
 
-TODO: Write a gem description
+ruboty plugin for show redis info.
+
+ported from [lita](https://github.com/jimmycuadra/lita/blob/8dd9a8c744f649a5cfe171f984d941d66e4d14ad/lib/lita/handlers/info.rb).
 
 ## Installation
 
@@ -20,11 +22,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    @ruboty redis info
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/ruboty-redis-info/fork )
+1. Fork it ( https://github.com/blockgiven/ruboty-redis-info/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
