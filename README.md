@@ -4,6 +4,8 @@ ruboty plugin for show redis info.
 
 ported from [lita](https://github.com/jimmycuadra/lita/blob/8dd9a8c744f649a5cfe171f984d941d66e4d14ad/lib/lita/handlers/info.rb).
 
+![screenshot](screenshot.png)
+
 ## Installation
 
 Add this line to your application's Gemfile:
